@@ -35,7 +35,7 @@
 require("dotenv").config();
 let gg = process.env.MODS;
 if (!gg) {
-  gg = "447418393380";   // You can Change this number //
+  gg = "260767611710";   // You can Change this number //
 }
 
 // -------------------------------------------------------------- //
